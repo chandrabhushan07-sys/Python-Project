@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="782" viewBox="0 0 1200 782">
+<rect width="1200" height="100%" fill="#0b1020"/>
+<rect x="40" y="35" width="1120" height="712" rx="16" fill="#111827" stroke="#334155" stroke-width="2"/>
+<path d="M40 100h1120" stroke="#334155" stroke-width="2"/>
+<circle cx="75" cy="68" r="8" fill="#fb7185"/><circle cx="101" cy="68" r="8" fill="#fbbf24"/><circle cx="127" cy="68" r="8" fill="#34d399"/>
+<text x="165" y="75" fill="#94a3b8" font-family="Arial,sans-serif" font-size="18">VS Code Terminal — 04 Different Valid Scenario</text>
+<g font-family="Menlo, Monaco, monospace" font-size="19">
+<text x="75" y="139" fill="#a78bfa">$ python3 number_guessing_game.py --test-secret 42</text>
+<text x="75" y="184" fill="#cbd5e1"></text>
+<text x="75" y="220" fill="#34d399">=== Number Guessing Game ===</text>
+<text x="75" y="256" fill="#cbd5e1">I&#x27;m thinking of a number from 1 to 100. You have 5 attempts.</text>
+<text x="75" y="292" fill="#cbd5e1">Enter your guess: 10</text>
+<text x="75" y="328" fill="#cbd5e1">Too low! Attempts left: 4</text>
+<text x="75" y="364" fill="#cbd5e1">Enter your guess: 90</text>
+<text x="75" y="400" fill="#cbd5e1">Too high! Attempts left: 3</text>
+<text x="75" y="436" fill="#cbd5e1">Enter your guess: 50</text>
+<text x="75" y="472" fill="#cbd5e1">Too high! Attempts left: 2</text>
+<text x="75" y="508" fill="#cbd5e1">Enter your guess: 30</text>
+<text x="75" y="544" fill="#cbd5e1">Too low! Attempts left: 1</text>
+<text x="75" y="580" fill="#cbd5e1">Enter your guess: 20</text>
+<text x="75" y="616" fill="#cbd5e1">Too low! Attempts left: 0</text>
+<text x="75" y="652" fill="#cbd5e1">Game Over! The number was 42.</text>
+<text x="75" y="688" fill="#cbd5e1">Attempts used: 5</text>
+<text x="75" y="724" fill="#cbd5e1">Play again? (y/n): n</text>
+<text x="75" y="760" fill="#cbd5e1">Thanks for playing!</text>
+</g></svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="458" viewBox="0 0 1200 458">
+<rect width="1200" height="100%" fill="#0b1020"/>
+<rect x="40" y="35" width="1120" height="388" rx="16" fill="#111827" stroke="#334155" stroke-width="2"/>
+<path d="M40 100h1120" stroke="#334155" stroke-width="2"/>
+<circle cx="75" cy="68" r="8" fill="#fb7185"/><circle cx="101" cy="68" r="8" fill="#fbbf24"/><circle cx="127" cy="68" r="8" fill="#34d399"/>
+<text x="165" y="75" fill="#94a3b8" font-family="Arial,sans-serif" font-size="18">VS Code Terminal — 01 Normal Input</text>
+<g font-family="Menlo, Monaco, monospace" font-size="19">
+<text x="75" y="139" fill="#a78bfa">$ python3 number_guessing_game.py --test-secret 42</text>
+<text x="75" y="184" fill="#cbd5e1"></text>
+<text x="75" y="220" fill="#34d399">=== Number Guessing Game ===</text>
+<text x="75" y="256" fill="#cbd5e1">I&#x27;m thinking of a number from 1 to 100. You have 5 attempts.</text>
+<text x="75" y="292" fill="#cbd5e1">Enter your guess: 42</text>
+<text x="75" y="328" fill="#34d399">Congratulations! You guessed it in 1 attempt(s).</text>
+<text x="75" y="364" fill="#cbd5e1">Attempts used: 1</text>
+<text x="75" y="400" fill="#cbd5e1">Play again? (y/n): n</text>
+<text x="75" y="436" fill="#cbd5e1">Thanks for playing!</text>
+</g></svg>
